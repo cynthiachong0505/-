@@ -1,0 +1,6 @@
+{
+  "name": "Activity Hub",
+  "description": "A refined, real-time administrative scheduler, enrollment tracking roster and student check-in kiosk platform for Oakwood Elementary school extracurricular activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
